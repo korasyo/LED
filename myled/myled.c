@@ -5,7 +5,7 @@
 #include <linux/uaccess.h>
 #include <linux/io.h>
 
-MODULE_AUTHOR("Keita yamada");
+MODULE_AUTHOR("RyuiCHI Ueda & Keita yamada");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
