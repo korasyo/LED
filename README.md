@@ -22,3 +22,9 @@ sudo chmod 666 / dev/myled0
 実行方法
 echo 1 > /dev/myled0　LEDが点灯する  
 echo 0 > /dev/myled0　LEDが消灯する  
+
+実行動画  
+https://youtube.com/shorts/M-2gUqGNYrU?feature=share  
+
+ライセンス  
+GNU General Public License v3.0  
